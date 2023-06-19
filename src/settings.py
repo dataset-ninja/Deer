@@ -5,8 +5,8 @@ from dataset_tools.templates import AnnotationType, CVTask, Industry, License
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Deer"
-PROJECT_NAME_FULL: str = "Deer"
+PROJECT_NAME: str = "Deer (z7klu)"
+PROJECT_NAME_FULL: str = "Deer (z7klu)"
 
 ##################################
 # * After uploading to instance ##
