@@ -37,8 +37,8 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = "https://universe.roboflow.com/deertracker/deer-yidlt"
-ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
+ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Roboflow community"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://universe.roboflow.com/galen-marsh-vvdvx"
 TAGS: List[str] = None
 
 ##################################
